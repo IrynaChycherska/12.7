@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\1 курс\АП\12.7\12.7\Source.cpp(83,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\1 курс\АП\12.7\12.7\Source.cpp(84,15): warning C4101: 'chromatic': unreferenced local variable
+D:\1 курс\АП\12.7\12.7\Source.cpp(85,6): warning C4101: 'summond': unreferenced local variable
+  12.7.vcxproj -> D:\1 курс\АП\12.7\Debug\12.7.exe
